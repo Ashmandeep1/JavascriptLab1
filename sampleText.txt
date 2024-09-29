@@ -1,0 +1,4 @@
+Node. js is not a programming language; it is a runtime environment allowing you to execute JavaScript code on the server side, outside a web browser. 
+Built on the V8 JavaScript engine from Chrome, Node. js compiles JavaScript into machine code for efficient execution.
+Javascript is a computer programming language that is used to build scripts for websites. 
+With the support of NodeJS, Javascript can be executed outside of the browser. Only browsers are capable of running Javascript.
